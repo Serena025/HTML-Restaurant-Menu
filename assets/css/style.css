@@ -32,6 +32,12 @@ nav {
     padding: 10px;
 }
 
+
+nav {
+    width: 100%;
+}
+
+
 nav ul {
     list-style-type: none;
     text-align: center;
@@ -65,6 +71,7 @@ nav a:hover {
 
 .service {
     display: inline-block;
+    text-align: center;
     background-color: white;
     border: 5px solid green;
     border-radius: 5px;
