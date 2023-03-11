@@ -71,7 +71,6 @@ nav a:hover {
 
 .service {
     display: inline-block;
-    text-align: center;
     background-color: white;
     border: 5px solid green;
     border-radius: 5px;
@@ -81,10 +80,12 @@ nav a:hover {
     margin: 10px;
 }
 
+
 table {
     border: 3px solid black;
     width: 100%;
 }
+
   
 td,
 th {
